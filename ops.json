@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "2d28448b-6034-3612-84e8-a040e0bda864",
+    "name": "RedLava",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9253b19c-cc89-3789-bd1b-da776434b082",
+    "name": "Tekelbayi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6e9abf3a-543a-3817-a70c-f28c653179fd",
+    "name": "DivX0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ad3e1802-f7da-3552-9035-4b0427cc2b9d",
+    "name": "RaGo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
